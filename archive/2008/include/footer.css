@@ -1,0 +1,62 @@
+/*Right Menu*/
+
+div#boxes_right { /*Right Menu box*/
+float:right;
+width:156px;
+}
+
+div.box_headright { /*Title of a Section in the Right Menu box*/
+width:156px;
+height:21px;
+text-align:left;
+border-top:4px solid #fa7a21;
+border-bottom:2px solid #fa7a21;
+margin-bottom:10px;
+background:url(../images/bg_box_head.gif) top left no-repeat;
+}
+
+div.box P { /*Paragraph in the Right Menu box*/
+font-size:11px;
+margin:3px;
+text-align:right;
+font-style:italic;
+}
+
+div.box P B { /*Paragraph Title in the Right Menu box*/
+font-style:normal;
+}
+
+P.alert { /*Red text in the Paragraph in the Right Menu box*/
+color:#de0a0a;
+}
+
+div.sponsors A { /*Logos in the Sponsor boxes in the Right Menu box*/
+display:block;
+margin-bottom:10px;
+text-align:center;
+}
+
+/*Footer*/
+
+div.clearer { /*clears the Content Box of the page*/
+clear:both;
+border-bottom:4px solid #fa7a21;
+}
+
+div#footer { /*Footer box*/
+height:19px;
+background-color:#940000;
+}
+
+div#footer_text { /*Text in Footer box*/
+position:relative;
+top:3px;
+font-size:10px;
+font-weight:normal;
+color:#ffffff;
+padding:0px 20px;
+}
+
+div#footer_text A { /*Anchor Color Text in Footer box*/
+color:#ffffff;
+}

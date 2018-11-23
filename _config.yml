@@ -1,0 +1,7 @@
+title: OMNeT++ Summits
+
+sass:
+    style: compressed
+
+plugins:
+    - jekyll-redirect-from
