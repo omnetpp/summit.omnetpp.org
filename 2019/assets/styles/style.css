@@ -119,7 +119,7 @@ blockquote:before, blockquote:after, q:before, q:after {
 }
 /* Body and Wrapper */
 body {
-	background: #E1FFCD; 
+	background: #2DC6D6; 
 	font: 13px/18px 'Open Sans', sans-serif;
 	text-align: justify; /* changed */
 	color: #2B2B2B;
