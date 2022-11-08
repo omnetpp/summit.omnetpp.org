@@ -1,0 +1,26 @@
+#twittermessages {
+
+}
+
+#twittermessages li {
+  padding-top:40px;
+  list-style-type: disc;
+}
+
+.twittermessages_status {
+  font-size:0.9em;
+}
+
+.twittermessages_status a {
+
+}
+
+.twittermessages_relativeTime {
+  font-size:0.8em;
+  text-align: right;
+}
+
+.twitterlink div {
+  width: 100%;
+  text-align: center;
+}

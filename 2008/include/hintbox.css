@@ -1,0 +1,20 @@
+#hintbox { /*CSS for pop up hint box */
+position:absolute;
+top: 0;
+background-color: #f4ecd9;
+width: 150px; /*Default width of hint*/
+padding: 3px;
+border:1px solid #7d6340;
+font:normal 11px Verdana;
+line-height:18px;
+z-index:100;
+border-right: 2px solid #7d6340;
+border-bottom: 2px solid #7d6340;
+visibility: hidden;
+}
+
+.hintanchor { /*CSS for link that shows hint onmouseover*/
+font-weight: bold;
+color: navy;
+margin: 0px 0px;
+}

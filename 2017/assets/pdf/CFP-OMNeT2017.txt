@@ -1,0 +1,131 @@
+ **** Apologies if you receive multiple copies of this message ****
+
+====================================================================
+                 4th OMNeT++ Community Summit 2017
+
+                   University of Bremen, Germany
+                     – September 07-08, 2017 -
+                  http://summit.omnetpp.org/2017/
+		
+                      CALL FOR CONTRIBUTIONS
+
+           *****  Submission Deadline June 30, 2017  *****
+====================================================================
+
+OMNeT++ is a public-source, component-based, modular and open-
+architecture simulation environment with strong GUI support and an
+embeddable simulation kernel. It is designed to simulate diverse
+discrete event-based systems.
+
+The OMNeT++ Community Summit is an open meeting with space for
+tutorials, discussions, coding sessions as well as presentations on
+recent developments and novel ideas in the broad area of modeling
+and simulation, with a focus on the OMNeT++ simulation framework.
+The OMNeT++ summit unites users, developers, and researchers to
+discuss applications, developments, and ideas on the topics of
+integrating simulation models, coupling different simulation tools
+and providing more accurate and more efficient modeling approaches
+and simulation models.
+
+Topics of interest include, but are not limited to:
+
+- Design, evaluation, validation of simulation models
+- Comparison with other simulation / emulation tools
+- Parallel simulation and simulation control
+- Integration of hardware-specific code
+- Simulative approaches to performance evaluation
+- Cross-layer protocol design methodologies
+- Simulation credibility and validation
+- Use of discrete event simulation in other domains
+- Integration with other simulation tools
+- Result interpretation and analysis
+- Modeling techniques, including stochastic and hybrid modeling
+- Simulation in the loop
+- Industrial applications and practical use cases
+
+-----------------------------
+SUBMISSION and PARTICIPATION
+-----------------------------
+We invite researchers and users alike to submit one or more of
+the following three contribution types:
+
+a)  Full papers (max. 4 pages) are research papers that describe
+    ongoing work or finalized results. Full papers that are
+    accepted and presented at the summit will appear in the
+    summit proceedings and be submitted to arXiv.
+
+b)  Short abstracts (max. 1 page) provide an overview of a proposed
+    presentation or demo. Authors may find this format suitable for
+    design proposals, for preliminary or more narrowly focused work,
+    for case studies, or to highlight OMNeT++-related results in
+    work that has been published elsewhere. Short abstracts will be
+    invited as either a presentation or a poster and will be 
+	included in the summit proceedings.
+	
+c)  Proposals for tutorials, demonstrations, coding sessions,
+    discussion panels, and other interactive community activities
+    an be submitted to the organizers via e-mail:
+    <omnetsummit2017@easychair.org>
+
+All submissions should be of interest to the OMNeT++ community.
+We welcome case studies that employ OMNeT++ in the evaluation of
+systems as well as contributions addressing general questions of
+OMNeT++-based simulations. For model-centric submissions we ask
+the author(s) to publicize source code at the time of submission.
+
+Submissions will be checked by the technical program committee
+and the organizers. Individual contributions will be invited as
+oral presentations, demos, tutorials or panels, depending on the
+submission type and the expected interest for the OMNeT++ community.
+We will provide poster slots for all interested participants.
+
+Full papers and short abstracts should be prepared with the IEEE
+conference proceedings template (A4 page size, conference mode).
+Detailed instructions are available on the summit website:
+http://summit.omnetpp.org/2017/
+
+The proceedings will be published as a technical report via arXiv
+and the OMNeT++ website.
+Copyrights will remain solely with the authors.
+This allows for a publication of revised versions at other venues.
+
+The OMNeT++ Community Summit is sponsored and free to attend by
+everyone. Registration fees will not be applied.
+
+-----------------------------
+DATES and DEADLINES
+-----------------------------
+- Submission Deadline:  July 7, 2017 (extended)
+- Author Notification:  August 01, 2017
+- Camera-Ready:         August 21, 2017
+- Summit Date:          September 07-08, 2017
+
+-----------------------------
+ORGANIZERS
+-----------------------------
+- Summit Organizers:
+    + Anna Förster (University of Bremen, Germany)
+    + Asanga Udugama (University of Bremen, Germany)
+    + Andreas Könsgen (University of Bremen, Germany)
+
+- Technical Program Organizers
+    + Antonio Virdis (University of Pisa, Italy)
+    + Michael Kirsche (BTU Cottbus–Senftenberg, Germany)
+
+- Publicity Organizer
+    + Kyeong Soo Kim (Xi'an Jiaotong–Liverpool University, China)
+    + Vladimir Vesely (Brno University of Technology, Czech Republic)
+
+- Technical Program Committee
+    + Lucia Lo Bello (University of Catania, Italy)
+    + Claudia Campolo (University of Reggio Calabria, Italy)
+    + Laura Marie Feeney (Uppsala University, Sweden)
+    + Michael Frey (HU Berlin, Germany)
+    + Florian Kauer (TU Hamburg-Harburg, Germany)
+    + Marcel Marek (University of Oslo, Norway)
+    + Yutaka Matsubara (Nagoya University, Japan)
+    + Cyriel Minkenberg (Rockley Photonics Inc., USA)
+    + Thi Mai Trang Nguyen (UUPMC - LIP6, France)
+    + Christoph Sommer (University of Paderborn, Germany)
+    + Mirko Stoffers (RWTH Aachen University, Germany)
+    + Marco Tiloca (RISE SICS, Sweden)
